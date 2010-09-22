@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+             Remedial Movements in VIM
+
+                 Bernerd Schaefer
+
+
+
+
+
+
+
+ :vs scratchpad.rb
+ ^W L
+ ^W 10 <

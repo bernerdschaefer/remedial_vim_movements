@@ -1,0 +1,22 @@
+
+
+
+
+                      ;  ,
+                    ========
+
+              ;  repeat f, t, F, T
+              , reverse f, t, F, T
+
+
+
+
+
+                NOTE: This is why
+                let mapleader=","
+                   is stupid.
+
+             Even worse? nnoremap ; :
+
+
+

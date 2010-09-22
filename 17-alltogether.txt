@@ -1,0 +1,22 @@
+
+
+
+
+                     Marks
+                all together now
+                   =========
+
+
+            ma           set a
+            'a           go to start of a's line
+            `a           go to cursor position
+                         for a
+
+
+
+
+
+
+
+
+

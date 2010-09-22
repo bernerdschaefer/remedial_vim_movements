@@ -1,0 +1,22 @@
+
+
+
+
+                      WORD
+                    ========
+
+        "sequence of non-blank characters,
+                separted with white space"
+                        - :help WORD
+
+
+
+
+
+
+
+
+
+
+
+

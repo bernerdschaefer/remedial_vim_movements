@@ -1,0 +1,22 @@
+
+
+
+
+                      word
+                    ========
+
+        "sequence of letters, digits and
+      underscores separted with white space"
+                        - :help word
+
+
+
+
+
+
+
+
+
+
+
+
